@@ -6,9 +6,14 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 .maindiv{
     background-color: white;
     color: black;
-    width: 300px;
+    width: 500px;
+    height: 250px;
     padding: 25px;
     border-radius: 28px;
     margin: auto;
 }
-
+.footer{
+    margin-top:70px;
+    margin-bottom:50px;
+    padding: 20px;
+}
